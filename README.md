@@ -13,7 +13,7 @@
 ## Features
 
 - **Nested AprilTag detection** — outer 70 cm tag for high-altitude,
-  inner 15 cm tag for close-range handoff
+  inner 16 cm tag for close-range handoff
 - **4-stage filter pipeline** — quality gate, outlier rejection,
   EMA smoothing, target-lost failsafe
 - **5-state FSM** — SEARCHING → ALIGNING → DESCENDING → FLARE → LANDING
@@ -182,7 +182,6 @@ farasha-uav-precision-landing/
 
 **ELMESSAOUDI Oussama** — PFE Intern  
 FARASHA Systems × TAMAYOUZ Centre FSA × UIZ  
-`oussama.elmessaoudi@farasha.systems`
 
 ---
 
