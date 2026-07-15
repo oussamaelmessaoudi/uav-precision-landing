@@ -1,0 +1,17 @@
+# PiCamera V2.1 (IMX219) — calibrated intrinsics
+# Resolution: 1280x720
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [1002.0, 0.0, 640.0,
+          0.0, 1002.0, 360.0,
+          0.0,    0.0,   1.0]
+
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [0.0, 0.0, 0.0, 0.0, 0.0]   # replace after calibration
+
+# Reprojection error: NOT YET CALIBRATED
+# Run: python3 scripts/utils/camera_calibration.py
+# to generate calibrated values and replace above

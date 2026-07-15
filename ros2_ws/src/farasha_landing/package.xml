@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>farasha_landing</name>
+  <version>0.3.0</version>
+  <description>
+    FARASHA Autonomous Precision Landing — AprilTag detection,
+    MAVLink LANDING_TARGET publisher, and 5-state FSM controller.
+    Compatible with PX4 SITL (Gazebo) and HITL (Cube Orange + RPi4).
+  </description>
+  <maintainer email="oussama@farasha.systems">ELMESSAOUDI Oussama</maintainer>
+  <license>MIT</license>
+
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>cv_bridge</depend>
+  <depend>vision_msgs</depend>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <test_depend>pytest</test_depend>
+</package>

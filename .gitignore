@@ -1,0 +1,43 @@
+# ROS2
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# ROS2
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# PX4 build
+PX4-Autopilot/build/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+venv/
+.env
+
+# Logs
+*.log
+*.ulg
+*.bag
+*.db3
+precision_landing_log.csv
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Media (generated)
+*.mp4
+*.avi
+*.png.bak
