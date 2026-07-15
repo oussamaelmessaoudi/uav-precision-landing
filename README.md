@@ -1,4 +1,4 @@
-# FARASHA UAV Precision Landing System
+# UAV Precision Landing System
 
 <p align="center">
   <img src="docs/images/system_architecture.png" width="700"/>
