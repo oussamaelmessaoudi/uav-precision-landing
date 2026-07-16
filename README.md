@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="docs/images/farasha_logo.png" alt="FARASHA Systems" width="180"/>
-
-# FARASHA UAV Precision Landing System
+# UAV Precision Landing System
 
 ### Vision-Based Autonomous Touchdown Using Nested AprilTag Detection
 
