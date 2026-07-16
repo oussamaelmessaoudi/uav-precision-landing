@@ -1044,26 +1044,18 @@ Embedded Systems & Robotics Engineer<br/>
 PFE Intern @ FARASHA Systems × TAMAYOUZ Centre FSA<br/>
 Université Ibn Zohr — Computer Engineering & Embedded Systems<br/>
 <br/>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/oussamaelmessaoudi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/usama-elmessaoudi/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:oussama.elmessaoudi@farasha.systems">
+<a href="mailto:oussamaelmessaoudi17@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 </td>
 </tr>
 </table>
-
-### Supervisors & Institution
-
-| Role | Name | Organization |
-|------|------|-------------|
-| PFE Supervisor | — | TAMAYOUZ Centre FSA |
-| Technical Mentor | — | FARASHA Systems |
-| Institution | UIZ | Université Ibn Zohr, Agadir |
 
 ---
 
