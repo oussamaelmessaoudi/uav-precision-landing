@@ -10,7 +10,7 @@
 [![MAVLink](https://img.shields.io/badge/MAVLink-v2-0066FF?style=flat-square&logo=mavlink&logoColor=white)](https://mavlink.io)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-SITL_Validated-brightgreen?style=flat-square)]()
-[![HITL](https://img.shields.io/badge/HITL-In_Progress-orange?style=flat-square)]()
+[![HITL](https://img.shields.io/badge/HITL-Validated-brightgreen?style=flat-square)]()
 
 <br/>
 
